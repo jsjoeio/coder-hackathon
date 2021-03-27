@@ -12,6 +12,7 @@ curl -fsSL https://raw.githubusercontent.com/jsjoeio/coder-hackaton/run.sh | sh
 ## TODOS
 
 - [ ] Get Node.js version
+- [ ] get yarn version
 - [ ] Get global extensions
 - [ ] Write to a Dockerfile
 - [ ] (stretch) Install nvm (if installed locally)
